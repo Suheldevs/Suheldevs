@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mohd suhel
+- 👀 I’m interested in React full stack devlopment
+- 🌱 I’m currently learning node js and database
