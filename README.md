@@ -8,21 +8,20 @@
 <h3 align='center' style="color:red">Connect with us🤝</h3>
 </p>
 
----
+<h3 align='center'><a href='https://drive.google.com/file/d/1k460DZS6Yboz496IjRpDE3HHZ0JOoFCb/view?usp=drive_link' target='_blank'>View Resume</a></h3>
 
+---
 ### 🙋‍♂️ **About Me**
 
 - 💻 **MERN Stack Developer** passionate about building full-stack web apps.  
 - 🚀 Focused on advanced **backend optimization** and **Cloud Integration**.  
-- 🧑‍🏫 I enjoy **mentoring new developers** and contributing to **open-source projects**.  
-- 🎯 **2025 Goals:** Launch impactful projects and grow my **personal brand**.  
-- 🖥️ **Motto:** *"Program your thoughts into web apps that change the world."*
+-  I enjoy **mentoring new developers** and contributing to **open-source projects**.
 
 ---
 
 ### 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwindcss,git,vscode&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwindcss,github,gsap&theme=dark" alt="Skills">
 </p>
 
 ---
@@ -48,7 +47,7 @@ Empowering communities to escalate garbage management issues efficiently.
 
 ---
 
-### ✍️ **Cool Code Snippet**
+### ✍️ **My Moto**
 ```javascript
 // Turning Ideas into Web Apps
 const createWebApp = (idea) => {
