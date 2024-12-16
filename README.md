@@ -1,14 +1,13 @@
 <h1 align="center">Hi there!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Handshake"> , I'm <span style="color: orange;">Mohd Suhel</span></h1>
 
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Turning+Ideas+into+Web+Apps;Building+Scalable+Projects;Crafting+the+Future+of+Web!" alt="Typing Animation">
-</p>
+</h3>
 
 <p align="center">
 <h3 align='center' style="color:red">Connect with us🤝</h3>
 </p>
-
-<h3 align='center'><a href='https://drive.google.com/file/d/1k460DZS6Yboz496IjRpDE3HHZ0JOoFCb/view?usp=drive_link' target='_blank'>View Resume</a></h3>
+<h4 align='center'><a href='https://drive.google.com/file/d/1k460DZS6Yboz496IjRpDE3HHZ0JOoFCb/view?usp=drive_link' target='_blank'>View Resume</a></h4>
 
 ---
 ### 🙋‍♂️ **About Me**
@@ -55,7 +54,7 @@ const createWebApp = (idea) => {
   console.log(`${idea} ➡️ ${code}`);
 };
 
-createWebApp("Build a task manager");
+createWebApp("Your Bussiness Idea");
 ```
 🌐 Let's Connect
 <p align="center"> <a href="https://linkedin.com/in/mohd-suhel-4b2072257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:mohdsuhel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
